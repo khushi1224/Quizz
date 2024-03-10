@@ -11,12 +11,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #dddfeb;
+  background: #1f2847;
 }
 .container {
   position: relative;
   width: 100%;
-  max-width: 400px;
+  max-width: 700px;
   background: #1f2847;
   padding: 30px;
   overflow: hidden;
@@ -146,7 +146,7 @@ select {
   opacity: 1;
 }
 .answer.correct {
-    border-color: #0cef2a;
+  border-color: #0cef2a;
 }
 .answer.wrong {
   border-color: #fc3939;
